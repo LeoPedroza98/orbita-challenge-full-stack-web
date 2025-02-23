@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EnrollmentSystem.Data")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EnrollmentSystem.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29f5983e52a947d0b14f3300001059e0f4987841")]
-[assembly: System.Reflection.AssemblyProductAttribute("EnrollmentSystem.Data")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EnrollmentSystem.Data")]
+[assembly: System.Reflection.AssemblyProductAttribute("EnrollmentSystem.API")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EnrollmentSystem.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

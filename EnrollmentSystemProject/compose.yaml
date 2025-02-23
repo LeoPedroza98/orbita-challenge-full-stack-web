@@ -1,0 +1,6 @@
+﻿services:
+  enrollmentsystem.api:
+    image: enrollmentsystem.api
+    build:
+      context: .
+      dockerfile: EnrollmentSystem.API/Dockerfile
